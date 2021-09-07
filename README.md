@@ -1,1 +1,1 @@
-# rsschool-cv
+https://AnatoliyYa.github.io/rsschool-cv/cv
