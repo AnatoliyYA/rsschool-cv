@@ -63,7 +63,6 @@ I have been working as a financial analyst for a long time. I used to do program
       - Faculty of Management Accounting
   - [RS School ](https://rs.school/)(in progress)
      -  Course «JavaScript/Front-end. Stage 1"
- ## Experience
  
   ## Languages
   * Russian (nativ)
