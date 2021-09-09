@@ -24,13 +24,47 @@ I have been working as a financial analyst for a long time. I used to do program
 - Visual Studio Code
 
   
-  ## Code Example
+## Code Example
   ```
+  <!DOCTYPE html>
+<html lang="en"
+    <head>
+        <meta charset="utf-8">
+        <title>
+            CV ANATOLIY YANUSHEVSKYI
+        </title>
+    </head>
+
+    <body>
+        
+        <h1 style="text-align:center;"> ANATOLIY YANUSHEVSKYI</h1>
+        <hr>
+        
+        <h2 style="background-color:rgb(220, 175, 230);" style="color: gray;" > Above me </h2>
+        <img src="ay.jpeg" alt="My photo" width="204" height="242">
+        
+        
+        <h2 style="background-color:rgb(220, 175, 230);" style="color: gray;" > Education </h2>
+        <ul>
+            <li> <a href="https://kpi.ua/en"> National Technical University of Ukraine  </a></li>
+            <li> <a href="https://mim.kyiv.ua/en"> MIM-Kiev  </a></li>
+            <li> <a href="https://rs.school"> RS School  </a> in progress</li>
+        
+        </ul>
+      
+    </body>
+</html>
   ```
+
   ## Education
   - [National Technical University of Ukraine](https://kpi.ua/en)
+     - Faculty of Electronic Engineering
   - [MIM-Kiev](https://mim.kyiv.ua/en)
-  - [RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)](https://rs.school/)
+      - Faculty of Management Accounting
+  - [RS School ](https://rs.school/)(in progress)
+     -  Course «JavaScript/Front-end. Stage 1"
+ ## Experience
+ 
   ## Languages
   * Russian (nativ)
   * Ukranian (upper-intermediate)
